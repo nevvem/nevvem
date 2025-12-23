@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Pierwsza Strona</title>
+</head>
+<body>
+    <h1>Witaj na mojej stronie!</h1>
+    <p>To jest pierwszy paragraf tekstu na mojej stronie. <a href="https://www.google.pl">Możesz kliknąć tutaj, aby przejść do Google!</a></p>
+    <p>Dodaj więcej treści w kolejnych paragrafach.</p>
+</body>
+</html>
+
 
 <!--
 **nevvem/nevvem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
